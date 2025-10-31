@@ -181,8 +181,6 @@ FHEPropRate/
 │   ├── hooks/                  # Custom React hooks
 │   ├── fhevm/                  # FHEVM integration
 │   └── scripts/                # Build utilities
-├── frontend/                   # Reference implementation
-└── docs/                       # Documentation
 ```
 
 ## 🔧 Configuration
